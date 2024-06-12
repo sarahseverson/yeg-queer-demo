@@ -1,7 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
 Locations,/map.html,
-Browse objects,/browse.html,
+Browse artifacts,/browse.html,
 Places,/subjects.html,
 Timeline,/timeline.html,
+EQHP collection,https://archive.org/details/edmonton-queer-history,
 About,/about.html,
