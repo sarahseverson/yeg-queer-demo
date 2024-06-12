@@ -50,10 +50,10 @@ metadata: dhsi-cb-queerhistory
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Edmonton Queer History Project"
+organization-link: https://www.edmontonqueerhistoryproject.ca/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav: https://images.squarespace-cdn.com/content/v1/5f61141fa6215237a5ee5a36/1600365691750-1VW9LLS360A0SXC9R7I8/EQHP+logo-01.jpg
 
 ##########
 # ROBOTS EXCLUDE
