@@ -34,7 +34,7 @@ author: Sarah Severson
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: dhsi-cb-queerhistory 
+metadata: dhsi-cb-queerhistory-1 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -52,7 +52,7 @@ metadata: dhsi-cb-queerhistory
 #
 organization-name: "Edmonton Queer History Project"
 organization-link: https://www.edmontonqueerhistoryproject.ca/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-logo-banner: https://images.squarespace-cdn.com/content/v1/5f61141fa6215237a5ee5a36/1600365691750-1VW9LLS360A0SXC9R7I8/EQHP+logo-01.jpg
 organization-logo-nav: https://images.squarespace-cdn.com/content/v1/5f61141fa6215237a5ee5a36/1600365691750-1VW9LLS360A0SXC9R7I8/EQHP+logo-01.jpg
 
 ##########
