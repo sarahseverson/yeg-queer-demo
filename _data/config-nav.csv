@@ -1,8 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
-Locations,/map.html,
+Walking tour map,/map.html,
 Browse artifacts,/browse.html,
-Places,/subjects.html,
-Timeline,/timeline.html,
-EQHP collection,https://archive.org/details/edmonton-queer-history,
+EQHP digital collection,https://archive.org/details/edmonton-queer-history,
 About,/about.html,
+Club 70,/club70.html,

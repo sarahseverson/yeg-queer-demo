@@ -8,11 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://ia800306.us.archive.org/view_archive.php?archive=/31/items/ModernPink_1989-09/ModernPink_1989-09_jp2.zip&file=ModernPink_1989-09_jp2%2FModernPink_1989-09_0001.jp2&ext=jpg" %} 
+{% include feature/nav-menu.html sections="About the Edmonton Queer History Project ;About CollectionBuilder CSV;About the About Page" %}
 
-{% include feature/nav-menu.html sections="About the Edmonton Queer History walking tour ;About CollectionBuilder CSV;About the About Page" %}
-
-## About the Edmonton Queer History walking tour 
+## About the Edmonton Queer History 
 The Edmonton Queer History Project, an innovative university-community project designed to help celebrate the people, places, and moments that have helped to build Edmonton’s 2SLGBTQ+ community. 
 ### Here is my great sub-heading
 More text 
