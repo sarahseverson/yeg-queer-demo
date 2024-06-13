@@ -1,20 +1,20 @@
 objectid,title,display_template,image_small,image_thumb,object_location,format,subject,source,description,date,credit,latitude,longitude,location,genre
 ,,/objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg,,,,,,,,,,,
 demo_001,"Club 70 Newsletter August 17, 1970 Number 9",pdf,,,https://ia802705.us.archive.org/view_archive.php?archive=/0/items/newsletterclub7009unse/newsletterclub7009unse_jp2.zip&file=newsletterclub7009unse_jp2%2Fnewsletterclub7009unse_0001.jp2,application/pdf,Club 70,https://archive.org/details/newsletterclub7009unse/mode/2up,"Discussing the first AGM on September 13, 1970",1970-09-13,,,,,newsletter
-demo_002,Roy Wilson and Pat Fortier at the first Club 70,image,/objects/small/4Club70.jpg,/objects/thumbs/4Club70.jpg,/objects/4Club70.jpg,image/jpeg,Club 70,,,,Photo courtsey James McDermott,,,,photo
+demo_002,Roy Wilson and Pat Fortier at the first Club 70,image,/objects/small/4Club70_sm.jpg,/objects/thumbs/4Club70_th.jpg,/objects/4Club70.jpg,image/jpeg,Club 70,,,,Photo courtsey James McDermott,,,,photo
 demo_003,IA PDF,pdf,,,https://ia601602.us.archive.org/view_archive.php?archive=/15/items/newsletterclub7000unse/newsletterclub7000unse_jp2.zip&file=newsletterclub7000unse_jp2%2Fnewsletterclub7000unse_0001.jp2&ext=jpg,application/pdf,Club 70,https://archive.org/details/newsletterclub7000unse,President's Message on the Opening of Club 70,1970-02-13,,,,,newsletter
-demo_004,Club 70 - Final location at 10242-106 street,image,/objects/small/1Club70.jpg,/objects/thumbs/1Club70.jpg,/objects/1Club70.jpg,image/jpeg,Club 70,,,,photo credit Darrin Hagen,53.54411349,-113.5032953,,photo
-demo_005,Milla Pub,image,/objects/small/2Club70.jpg,/objects/thumbs/2Club70.jpg,/objects/2Club70.jpg,image/jpeg,Club 70,,10593 - 101 street (original site of Club 70),,photo credit Darrin Hagen,53.55029718,-113.493233,,photo
-demo_006,Club 70 Hawaii Nite poster,image,/objects/small/8Club70.jpg,/objects/thumbs/8Club70.jpg,/objects/8Club70.jpg,image/jpeg,Club 70,,,,,,,,empherma
-demo_007,Club 70 membership card,image,/objects/small/12Club70.jpg,/objects/thumbs/12Club70.jpg,/objects/12Club70.jpg,image/jpeg,Club 70,,,,,,,,empherma
-demo_008,Imperial Soverign Court of the Wild Rose,image,/objects/small/1ISCWR.jpg,/objects/thumbs/1ISCWR.jpg,/objects/1ISCWR.jpg,image/jpeg,ISCWR,,10155 - 105 st,,photo credit Darrin Hagen,,,"10155 105 Street NW (Coast Plaza Hotel, formerly the Executive Hotel)",photo
+demo_004,Club 70 - Final location at 10242-106 street,image,/objects/small/1Club70_sm.jpg,/objects/thumbs/1Club70_th.jpg,/objects/1Club70.jpg,image/jpeg,Club 70,,,,photo credit Darrin Hagen,53.54411349,-113.5032953,,photo
+demo_005,Milla Pub,image,/objects/small/2Club70_sm.jpg,/objects/thumbs/2Club70_th.jpg,/objects/2Club70.jpg,image/jpeg,Club 70,,10593 - 101 street (original site of Club 70),,photo credit Darrin Hagen,53.55029718,-113.493233,,photo
+demo_006,Club 70 Hawaii Nite poster,image,/objects/small/8Club70_sm.jpg,/objects/thumbs/8Club70_th.jpg,/objects/8Club70.jpg,image/jpeg,Club 70,,,,,,,,empherma
+demo_007,Club 70 membership card,image,/objects/small/12Club70_sm.jpg,/objects/thumbs/12Club70_th.jpg,/objects/12Club70.jpg,image/jpeg,Club 70,,,,,,,,empherma
+demo_008,Imperial Soverign Court of the Wild Rose,image,/objects/small/1ISCWR_sm.jpg,/objects/thumbs/1ISCWR_th.jpg,/objects/1ISCWR.jpg,image/jpeg,ISCWR,,10155 - 105 st,,photo credit Darrin Hagen,,,"10155 105 Street NW (Coast Plaza Hotel, formerly the Executive Hotel)",photo
 demo_009,ISCWR Coronation Ball 1977,image,,,https://dn790000.ca.archive.org/0/items/ISCWR-coronation-1977/ISCWR-coronation-1977.pdf,image/jpeg,ISCWR,https://archive.org/details/ISCWR-coronation-1977,,,,,,,program
-demo_010,2014 production of grease,image,/objects/small/4ISCWR.jpg,/objects/thumbs/4ISCWR.jpg,/objects/4ISCWR.jpg,image/jpeg,ISCWR,,,,,,,,photo
-demo_011,Introduction of the 33rd House of the Imperial Sovereign Court of the Wild Rose in the Alberta Legislature,video,,,https://youtu.be/TZbaHlnetOw?si=Jm_Ko-54IXk1PQ6O,video/mpeg,ISCWR,,"Members of the ISCWR were introduced to the Alberta Legislature on November 19, 2008 by the Honourable Rachel Notley.",2008-11-19,,,,,video / youtube
+demo_010,2014 production of grease,image,/objects/small/4ISCWR_sm.jpg,/objects/thumbs/4ISCWR_th.jpg,/objects/4ISCWR.jpg,image/jpeg,ISCWR,,,,,,,,photo
+demo_011,Introduction of the 33rd House of the Imperial Sovereign Court of the Wild Rose in the Alberta Legislature,video,/objects/small/4ISCWR_sm.jpg,/objects/thumbs/4ISCWR_th.jpg,https://youtu.be/TZbaHlnetOw?si=Jm_Ko-54IXk1PQ6O,video/mpeg,ISCWR,,"Members of the ISCWR were introduced to the Alberta Legislature on November 19, 2008 by the Honourable Rachel Notley.",2008-11-19,,,,,video / youtube
 demo_012,"1982 Coronation Ball entitled “Pirates & Pierrot,” which was Edmonton’s 6th Coronation Ball and the crowning of the 7th Emperor and Empress of the Imperial Sovereign Court of the Wild Rose.",video,,,https://www.youtube.com/watch?v=FACuj9amKgA,video/mpeg,ISCWR,,"Coronation Ball in Edmonton with Emperor VI Daryl and Empress VI Lindee Star : The Star Court (1981-1982)
 Super 8 film transfer.
 Scans of the evening program.",,,,,,video / youtube
-demo_013,,image,/objects/small/6Womonspace.jpg,/objects/thumbs/6Womonspace.jpg,/objects/6Womonspace.jpg,image/jpeg,Womonspace,,,,,,,,
-demo_014,,image,/objects/small/1womonspace.jpg,/objects/thumbs/1womonspace.jpg,/objects/1womonspace.jpg,image/jpeg,Womonspace,,,,,,,,
-demo_015,"Womonspace, 9930 - 106 street",image,/objects/small/13womonspace.jpg,/objects/thumbs/13womonspace.jpg,/objects/13womonspace.jpg,image/jpeg,Womonspace,,,,photo credit Darrin Hagen,,,,
+demo_013,,image,/objects/small/6Womonspace_sm.jpg,/objects/thumbs/6Womonspace_th.jpg,/objects/6Womonspace.jpg,image/jpeg,Womonspace,,,,,,,,
+demo_014,,image,/objects/small/1womonspace_sm.jpg,/objects/thumbs/1womonspace_th.jpg,/objects/1womonspace.jpg,image/jpeg,Womonspace,,,,,,,,
+demo_015,"Womonspace, 9930 - 106 street",image,/objects/small/13womonspace_sm.jpg,/objects/thumbs/13womonspace_th.jpg,/objects/13womonspace.jpg,image/jpeg,Womonspace,,,,photo credit Darrin Hagen,,,,
 demo_016,Club 70 record value online,record,,,,,,,,,,,,,
